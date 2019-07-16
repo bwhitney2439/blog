@@ -14,6 +14,8 @@ class PostList extends Component {
   }
 }
 
+const mapStatetoProps = state => {};
+
 export default connect(
   null,
   {
